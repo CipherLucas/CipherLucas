@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lucas Audette!
+# 👋 Hi, I'm Lucas!
 
 ## 🛡️ Digital Craftsman | Cybersecurity Student | Tech Creator
 I'm a cybersecurity student and creator, passionate about ethical hacking, incident response, and building tools to combat phishing attacks. Currently building [ThePhishingNet.com](https://thephishingnet.com), a cybersecurity platform for detecting and mitigating phishing risks.
@@ -6,9 +6,9 @@ I'm a cybersecurity student and creator, passionate about ethical hacking, incid
 - 🎓 **Junior at Assumption University**  
   Cybersecurity & Computer Science | GPA: 3.7  
 - 🛠️ **Key Projects**:  
-  - [Phishing Detection Tool](https://github.com/LucasAudette/phishing-detection-tool)  
+  - [Phishing Detection Tool](https://github.com/CipherLucas/phishing-detection-tool)  
   - [ThePhishingNet.com](#🚧-thephishingnetcom-work-in-progress)  
-  - [IP Geolocation Tracker](https://github.com/LucasAudette/ip-geolocation-tool)  
+  - [IP Geolocation Tracker](https://github.com/CipherLucas/ip-geolocation-tool)  
   - [Pentest Reports & Cyber Write-Ups](#✍️-penetration-test-reports-and-write-ups)  
 - 🎥 **Content Creator**:  
   Sharing tutorials, documentaries, and tech tips on [YouTube](https://youtube.com/yourchannel).
@@ -52,11 +52,11 @@ Check it out here: [ThePhishingNet.com](https://thephishingnet.com). Your feedba
 
 Explore detailed documentation and analysis of my hands-on cybersecurity work:
 
-- **[Penetration Test Report - E-Commerce Site](https://github.com/LucasAudette/penetration-test-ecommerce)**  
+- **[Penetration Test Report - E-Commerce Site](https://github.com/CipherLucas/penetration-test-ecommerce)**  
   Simulated penetration test of a fictional online store, including findings and mitigation strategies.
-- **[Write-Up - TryHackMe "Red Team" Path](https://github.com/LucasAudette/tryhackme-red-team)**  
+- **[Write-Up - TryHackMe "Red Team" Path](https://github.com/CipherLucas/tryhackme-red-team)**  
   Solutions and strategies for completing red team-focused labs.
-- **[Incident Response Case Study](https://github.com/LucasAudette/incident-response-case-study)**  
+- **[Incident Response Case Study](https://github.com/CipherLucas/incident-response-case-study)**  
   Investigation and remediation of a simulated ransomware attack.
 
 ---
@@ -86,4 +86,4 @@ Explore detailed documentation and analysis of my hands-on cybersecurity work:
 
 ## 🎨 Activity
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=LucasAudette&theme=radical)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CipherLucas&theme=radical)
