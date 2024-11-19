@@ -1,27 +1,89 @@
 # 👋 Hi, I'm Lucas Audette!
 
-## 🛡️ About Me
-- 🧑‍🎓 Junior at Assumption University | Cybersecurity and Computer Science | GPA: 3.7
-- 🔒 Passionate about ethical hacking, malware analysis, and phishing prevention.
+## 🛡️ Digital Craftsman | Cybersecurity Student | Tech Creator
+I'm a cybersecurity student and creator, passionate about ethical hacking, incident response, and building tools to combat phishing attacks. Currently building [ThePhishingNet.com](https://thephishingnet.com), a cybersecurity platform for detecting and mitigating phishing risks.
 
-## 🚀 Cybersecurity Projects
-- **[Phishing Detection Tool](https://github.com/LucasAudette/phishing-detection-tool):** Detect phishing websites using URL analysis.
-- **[IP Geolocation Tracker](https://github.com/LucasAudette/ip-geolocation-tool):** Identify IP locations for security investigations.
+- 🎓 **Junior at Assumption University**  
+  Cybersecurity & Computer Science | GPA: 3.7  
+- 🛠️ **Key Projects**:  
+  - [Phishing Detection Tool](https://github.com/LucasAudette/phishing-detection-tool)  
+  - [ThePhishingNet.com](#🚧-thephishingnetcom-work-in-progress)  
+  - [IP Geolocation Tracker](https://github.com/LucasAudette/ip-geolocation-tool)  
+  - [Pentest Reports & Cyber Write-Ups](#✍️-penetration-test-reports-and-write-ups)  
+- 🎥 **Content Creator**:  
+  Sharing tutorials, documentaries, and tech tips on [YouTube](https://youtube.com/yourchannel).
+
+---
+
+## 🚧 ThePhishingNet.com (Work in Progress)
+
+[![Work in Progress](https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge)](https://thephishingnet.com)
+
+ThePhishingNet is a phishing detection platform currently in its early development phase. Its goal is to provide users with a tool to check and analyze URLs, emails, and IPs for phishing threats. 
+
+- **Current Features**:  
+  - Basic URL scanning and validation  
+  - IP geolocation integration  
+  - Simple UI for testing functionality  
+
+- **Planned Enhancements**:  
+  - Advanced phishing pattern detection  
+  - User-friendly dashboard with reporting tools  
+  - API integration for enterprise-level use  
+
+Check it out here: [ThePhishingNet.com](https://thephishingnet.com). Your feedback is welcome!
+
+---
+
+## 🛠️ Languages and Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kali-linux&logoColor=white&style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![Nmap](https://img.shields.io/badge/-Nmap-3776AB?logo=nmap&logoColor=white&style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/-Metasploit-04F404?logo=metasploit&logoColor=white&style=for-the-badge)
+
+---
 
 ## ✍️ Penetration Test Reports and Write-Ups
-Explore detailed documentation and analysis of my hands-on cybersecurity work, including:
-- **[Penetration Test Report - E-Commerce Site](https://github.com/LucasAudette/penetration-test-ecommerce):**  
-  Simulated penetration test of a fictional online store with findings and mitigation strategies.
-- **[Write-Up - TryHackMe "Red Team" Path](https://github.com/LucasAudette/tryhackme-red-team):**  
-  Detailed solutions and strategies for various red team labs.
-- **[Incident Response Case Study](https://github.com/LucasAudette/incident-response-case-study):**  
+
+Explore detailed documentation and analysis of my hands-on cybersecurity work:
+
+- **[Penetration Test Report - E-Commerce Site](https://github.com/LucasAudette/penetration-test-ecommerce)**  
+  Simulated penetration test of a fictional online store, including findings and mitigation strategies.
+- **[Write-Up - TryHackMe "Red Team" Path](https://github.com/LucasAudette/tryhackme-red-team)**  
+  Solutions and strategies for completing red team-focused labs.
+- **[Incident Response Case Study](https://github.com/LucasAudette/incident-response-case-study)**  
   Investigation and remediation of a simulated ransomware attack.
 
-## 🛠️ Skills and Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white)
+---
 
-## 📫 Get in Touch
-- [LinkedIn][(https://www.linkedin.com/in/lucasaudette)]
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasAudette&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAudette&layout=compact&theme=radical)
+
+---
+
+## 🎥 Latest YouTube Videos
+
+- [Understanding Phishing Attacks](https://youtube.com/yourvideo)
+- [How to Use Kali Linux for Pentesting](https://youtube.com/yourvideo)
+- [Building a Phishing Detection Tool](https://youtube.com/yourvideo)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/lucas-audette)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/yourchannel)
+[![Website](https://img.shields.io/badge/-Website-0A0A0A?logo=web&logoColor=white&style=for-the-badge)](https://thephishingnet.com)
+
+---
+
+## 🎨 Activity
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=LucasAudette&theme=radical)
