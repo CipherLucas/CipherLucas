@@ -73,9 +73,3 @@ Explore detailed documentation and analysis of my hands-on cybersecurity work:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/lucas-audette)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/yourchannel)
 [![Website](https://img.shields.io/badge/-Website-0A0A0A?logo=web&logoColor=white&style=for-the-badge)](https://thephishingnet.com)
-
----
-
-## 🎨 Activity
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=CipherLucas&theme=radical)
