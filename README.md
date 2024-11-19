@@ -24,4 +24,4 @@ Explore detailed documentation and analysis of my hands-on cybersecurity work, i
 ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white)
 
 ## 📫 Get in Touch
-- [LinkedIn][(https://www.linkedin.com/in/lucas-audette)]
+- [LinkedIn][(https://www.linkedin.com/in/lucasaudette)]
