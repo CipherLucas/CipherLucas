@@ -68,14 +68,6 @@ Explore detailed documentation and analysis of my hands-on cybersecurity work:
 
 ---
 
-## 🎥 Latest YouTube Videos
-
-- [Understanding Phishing Attacks](https://youtube.com/yourvideo)
-- [How to Use Kali Linux for Pentesting](https://youtube.com/yourvideo)
-- [Building a Phishing Detection Tool](https://youtube.com/yourvideo)
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/lucas-audette)
