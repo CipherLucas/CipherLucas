@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Lucas!
 
-## 🛡️ Digital Craftsman | Cybersecurity Student | Tech Creator
+## 🛡️ Cyber Warrior | Cybersecurity Student | Web Dev
 I'm a cybersecurity student and creator, passionate about ethical hacking, incident response, and building tools to combat phishing attacks. Currently building [ThePhishingNet.com](https://thephishingnet.com), a cybersecurity platform for detecting and mitigating phishing risks.
 
 - 🎓 **Junior at Assumption University**  
   Cybersecurity & Computer Science | GPA: 3.7  
 - 🛠️ **Key Projects**:  
-  - [Phishing Detection Tool](https://github.com/CipherLucas/phishing-detection-tool)  
+  - [Penetration Testing Homelab setup](https://github.com/CipherLucas/phishing-detection-tool)  
   - [ThePhishingNet.com](#🚧-thephishingnetcom-work-in-progress)  
   - [IP Geolocation Tracker](https://github.com/CipherLucas/ip-geolocation-tool)  
   - [Pentest Reports & Cyber Write-Ups](#✍️-penetration-test-reports-and-write-ups)  
@@ -71,5 +71,5 @@ Explore detailed documentation and analysis of my hands-on cybersecurity work:
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/lucas-audette)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/yourchannel)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/CyberLuc)
 [![Website](https://img.shields.io/badge/-Website-0A0A0A?logo=web&logoColor=white&style=for-the-badge)](https://thephishingnet.com)
