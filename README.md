@@ -63,8 +63,8 @@ Explore detailed documentation and analysis of my hands-on cybersecurity work:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasAudette&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAudette&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CipherLucas&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CipherLucas&layout=compact&theme=radical)
 
 ---
 
