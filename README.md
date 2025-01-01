@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lucas!
 
 ## 🛡️ Cyber Warrior | Cybersecurity Student | Web Dev
-I'm a cybersecurity student and creator, passionate about ethical hacking, incident response, and building tools to combat phishing attacks. Currently building [ThePhishingNet.com](https://thephishingnet.com), a cybersecurity platform for detecting and mitigating phishing risks.
+I'm a cybersecurity student and creator, passionate about ethical hacking, incident response, and building tools to combat phishing attacks.
 
 - 🎓 **Junior at Assumption University**  
   Cybersecurity & Computer Science | GPA: 3.7  
