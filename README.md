@@ -6,32 +6,10 @@ I'm a cybersecurity student and creator, passionate about ethical hacking, incid
 - 🎓 **Junior at Assumption University**  
   Cybersecurity & Computer Science | GPA: 3.7  
 - 🛠️ **Key Projects**:  
-  - [Penetration Testing Homelab setup](https://github.com/CipherLucas/phishing-detection-tool)  
-  - [ThePhishingNet.com](#🚧-thephishingnetcom-work-in-progress)  
-  - [IP Geolocation Tracker](https://github.com/CipherLucas/ip-geolocation-tool)  
+  - [Penetration Testing Homelab setup](https://github.com/CipherLucas/phishing-detection-tool)   
   - [Pentest Reports & Cyber Write-Ups](#✍️-penetration-test-reports-and-write-ups)  
 - 🎥 **Content Creator**:  
   Sharing tutorials, documentaries, and tech tips on [YouTube](https://youtube.com/yourchannel).
-
----
-
-## 🚧 ThePhishingNet.com (Work in Progress)
-
-[![Work in Progress](https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge)](https://thephishingnet.com)
-
-ThePhishingNet is a phishing detection platform currently in its early development phase. Its goal is to provide users with a tool to check and analyze URLs, emails, and IPs for phishing threats. 
-
-- **Current Features**:  
-  - Basic URL scanning and validation  
-  - IP geolocation integration  
-  - Simple UI for testing functionality  
-
-- **Planned Enhancements**:  
-  - Advanced phishing pattern detection  
-  - User-friendly dashboard with reporting tools  
-  - API integration for enterprise-level use  
-
-Check it out here: [ThePhishingNet.com](https://thephishingnet.com). Your feedback is welcome!
 
 ---
 
