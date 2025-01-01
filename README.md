@@ -4,7 +4,7 @@
 I'm a cybersecurity student and creator, passionate about ethical hacking, incident response, and building tools to combat phishing attacks.
 
 - 🎓 **Junior at Assumption University**  
-  Cybersecurity & Computer Science | GPA: 3.7  
+  Cybersecurity & Computer Science 
 - 🛠️ **Key Projects**:  
   - [Penetration Testing Homelab setup](https://github.com/CipherLucas/phishing-detection-tool)   
   - [Pentest Reports & Cyber Write-Ups](#✍️-penetration-test-reports-and-write-ups)  
