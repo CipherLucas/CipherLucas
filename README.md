@@ -9,7 +9,7 @@ I'm a cybersecurity student and creator, passionate about ethical hacking, incid
   - [Penetration Testing Homelab setup](https://github.com/CipherLucas/PwnPlayground)   
   - [Vulnerability Assessments](#✍️-penetration-test-reports-and-write-ups)  
 - 🎥 **Content Creator**:  
-  Sharing tutorials, documentaries, and tech tips on [YouTube]([https://www.youtube.com/@CyberLuc])
+  Sharing tutorials, documentaries, and tech tips on [YouTube]([https://www.youtube.com/@CyberLuc]
 ).
 
 ---
