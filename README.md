@@ -31,7 +31,7 @@ I'm a cybersecurity student and creator, passionate about ethical hacking, incid
 
 Explore detailed documentation and analysis of my hands-on cybersecurity work:
 
-- **[Vulneralbility Assessment Report - Rapid7 Metasploitalbe](https://github.com/CipherLucas/penetration-test-ecommerce)**  
+- **[Vulneralbility Assessment Report - Rapid7 Metasploitable](https://github.com/CipherLucas/Metasploitable2-PenTest-Report)**  
   Ran Vulneralbility test on Rapid7's Metasploitable VM
 - **[Vulneralbility Assessment Report - Windows Server 2012](https://github.com/CipherLucas/Win-Server-2012-Pentest-report)**  
   Ran vulneralbility assessment on a Windows Server 2012 VM
