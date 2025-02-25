@@ -1,15 +1,16 @@
 # 👋 Hi, I'm Lucas!
 
-## 🛡️ Cyber Warrior | Cybersecurity Student | Web Dev
+## 🛡️ Cyber Warrior | Cybersecurity Student | Web design and Web Developer
 I'm a cybersecurity student and creator, passionate about ethical hacking, incident response, and building tools to combat phishing attacks.
 
 - 🎓 **Junior at Assumption University**  
   Cybersecurity & Computer Science 
 - 🛠️ **Key Projects**:  
-  - [Penetration Testing Homelab setup](https://github.com/CipherLucas/phishing-detection-tool)   
-  - [Pentest Reports & Cyber Write-Ups](#✍️-penetration-test-reports-and-write-ups)  
+  - [Penetration Testing Homelab setup](https://github.com/CipherLucas/PwnPlayground)   
+  - [Vulnerability Assessments](#✍️-penetration-test-reports-and-write-ups)  
 - 🎥 **Content Creator**:  
-  Sharing tutorials, documentaries, and tech tips on [YouTube](https://youtube.com/yourchannel).
+  Sharing tutorials, documentaries, and tech tips on [YouTube]([https://www.youtube.com/@CyberLuc])
+).
 
 ---
 
@@ -30,13 +31,10 @@ I'm a cybersecurity student and creator, passionate about ethical hacking, incid
 
 Explore detailed documentation and analysis of my hands-on cybersecurity work:
 
-- **[Penetration Test Report - E-Commerce Site](https://github.com/CipherLucas/penetration-test-ecommerce)**  
-  Simulated penetration test of a fictional online store, including findings and mitigation strategies.
-- **[Write-Up - TryHackMe "Red Team" Path](https://github.com/CipherLucas/tryhackme-red-team)**  
-  Solutions and strategies for completing red team-focused labs.
-- **[Incident Response Case Study](https://github.com/CipherLucas/incident-response-case-study)**  
-  Investigation and remediation of a simulated ransomware attack.
-
+- **[Vulneralbility Assessment Report - Rapid7 Metasploitalbe](https://github.com/CipherLucas/penetration-test-ecommerce)**  
+  Ran Vulneralbility test on Rapid7's Metasploitable VM
+- **[Vulneralbility Assessment Report - Windows Server 2012](https://github.com/CipherLucas/Win-Server-2012-Pentest-report)**  
+  Ran vulneralbility assessment on a Windows Server 2012 VM
 ---
 
 ## 📊 GitHub Stats
@@ -50,4 +48,4 @@ Explore detailed documentation and analysis of my hands-on cybersecurity work:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/lucas-audette)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/CyberLuc)
-[![Website](https://img.shields.io/badge/-Website-0A0A0A?logo=web&logoColor=white&style=for-the-badge)](https://thephishingnet.com)
+[![Website](https://img.shields.io/badge/-Website-0A0A0A?logo=web&logoColor=white&style=for-the-badge)](https://protecly.com)
