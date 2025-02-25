@@ -46,6 +46,6 @@ Explore detailed documentation and analysis of my hands-on cybersecurity work:
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/lucas-audette)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/lucasaudette/)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/@CyberLuc)
 [![Website](https://img.shields.io/badge/-Website-0A0A0A?logo=web&logoColor=white&style=for-the-badge)](https://protecly.com)
